@@ -199,7 +199,7 @@ Rule part | Information
 
 ## <u>Evasion Concepts and Techniques</u>
 
-- **Insertion Attack** - Attacker forces teh IDS to process invalid packets.
+- **Insertion Attack** - Attacker forces the IDS to process invalid packets.
 
 - **Evasion** - An endpoint accepts a packet that the IDS would normally reject. Typically executed via **fragmentation** of the attack packets to allow them to be moved through the IDS.
 
