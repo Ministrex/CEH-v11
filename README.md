@@ -18,7 +18,7 @@
 
 * The objective of this repo is to clarify all topics presented on [CEH v11](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/) (ANSI) exam.
 
-## LAST UPDATED ON July 4TH 2021
+## LAST UPDATED ON October 5th 2021
 
 ### ⚡︎ **This study guide have some [practical labs] to test your knowledge and learn by doing.**
 ---
@@ -38,7 +38,7 @@
 2. [Module 02 - Footprinting and Reconnaissance](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/2-Footprinting-and-Reconnaissance.md)
 3. [Module 03 - Scanning Networks](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/3-Scanning-Networks.md)
 4. [Module 04 - Enumeration](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/2-Scanning-and-Enumeration.md)
-5. [Module 05 - Vulnerability Analysis]()
+5. [Module 05 - Vulnerability Analysis](https://github.com/imrk51/CEH-v11-Study-Guide/blob/main/modules/5-Vulnerability-Analysis.md)
 6. [Module 06 - System Hacking](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/6-System-Hacking.md)
 7. [Module 07 - Malware Threats](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/7-Malware.md)
 8. [Module 08 - Sniffing](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/8-Sniffing.md)
